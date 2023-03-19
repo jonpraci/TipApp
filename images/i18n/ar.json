@@ -1,0 +1,167 @@
+{
+  "GENERAL": {
+    "mobile": "رقم الجوال",
+    "example": "مثال ( *******05 )",
+    "RS": "ر.س",
+    "confirmation": "تاكيد",
+    "About": "عن التطبيق",
+    "save": "حفظ",
+    "update": "تحديث",
+    "balance": "الرصيد",
+    "send": "ارسال",
+    "cancel": "الغاء",
+    "TIP": "TIP",
+    "change": "تعديل",
+    "loading": "جاري تحميل ...",
+    "Delete": "حذف",
+    "deleteAccount": "حذف الحساب",
+    "buyPackages": "شحن المحفظه",
+    "notifications": "الاشعارات",
+    "noticeDetails": "تفاصيل الاشعار",
+    "sentFrom": "تم الارسال من",
+    "exit": "هل تريد الخروج من التطبيق"
+  },
+  "login": {
+    "title": "تسجيل دخول",
+    "password": " كلمة المرور",
+    "forgotPassword": "?نسيت كلمه المرور",
+    "donHaveAccount": "ليس لديك حساب ؟ ",
+    "createAccount": "إنشاء حساب"
+  },
+  "forGetPassword": {
+    "title": "هل نسيت كلمه المرور ؟ ",
+    "descrption": "أدخل رقم الجوال الخاص بك لإرسال كود إسترجاع كلمة المرور",
+    "continue": "متابعه"
+  },
+  "mobileOtp": {
+    "description": "تم ارسال كود التحقق مكون من 4 ارقام علي رقم هاتفك ",
+    "resand": "إعاده ارسال رمز التحقق ",
+    "resandCode": "اعاده ارسال الكود"
+  },
+  "registration": {
+    "title": "تسجيل",
+    "description": " من فضلك قم باستكمال بياناتك",
+    "firstName": "الاسم الاول",
+    "pleaseFirstName": "رجاء ادخل الاسم الاول",
+    "lastName": "الاسم الاخير",
+    "pleaseLastName": "رجاء ادخل الاسم الاخير",
+    "email": "البريد الالكتروني (إختياري) ",
+    "pleaseEmail": " رجاء ادخل البريد الالكتروني صحيح",
+    "userName": " أسم المستخدام ",
+    "pleaseUsername": "رجاء ادخل أسم المستخدم",
+    "password": "كلمة المرور",
+    "pleasePassword": "رجاء ادخل كلمه المرور",
+    "confirmPassword": "تاكيد كلمه المرور",
+    "pleaseConfirmPassword": " رجاء ادخل تاكيد كلمه المرور",
+    "agreeTermsConditions": "أوافق علي الشروط والأحكام",
+    "createAccount": "انشاء حساب",
+    "AlreadyAccount": "لديك حساب بالفعل ؟"
+  },
+  "resetPassword": {
+    "newPassword": "كلمه المرور الجديده",
+    "confirmPassword": "تاكيد كلمه المرور الجديده"
+  },
+  "bankAccount": {
+    "title": "الحساب البنكي",
+    "bankName": "اسم البنك",
+    "accountNumber": "رقم الحساب",
+    "IBAN": "IBAN",
+    "beneficiaryName": "اسم المستفيد",
+    "addedBefore": "لم يتم إضافة أي حساب مصرفي من قبل !!",
+    "addAccount": "من فضلك قم باضافه حسابك لاستلام المكافأة",
+    "addNewAccount": "اضافه حساب بنكي"
+  },
+  "home": {
+    "title": "الرئيسية",
+    "transaction": " هل تريد بالفعل تحويل الي ",
+    "successfullyProcessed": "تم تنفيذ طلبك بنجاح",
+    "findBeneficiary": "بحث عن مستفيد",
+    "sendTo": "ارسال الي",
+    "addFavorites": "اضافه للمفضله",
+    "deleteFavourites": "حذف من المفضله",
+    "rewards": "التقييم",
+    "settings": "الاعدادات",
+    "wallet": "محفظه",
+    "payments": "مدفوعاتي",
+    "changePackage": "تغير الباقه",
+    "writeMessage": "آكتب الرساله ...",
+    "messages": "رسائل",
+    "minimumTransferTip": "الحد الأدنى {{minimumTransferTip}} TIP",
+    "packagePrice": "سعر الباقة",
+    "total": "الاجمالي",
+    "valueAddedTax": "ضريبة القيمة المضافة",
+    "sendConfirmation": "تاكيد الارسال"
+  },
+  "wallet": {
+    "purchaseTotal": "اجمالي مشترياتي",
+    "availableBalance": "الرصيد المتوفر",
+    "addBalance": "اضافه رصيد"
+  },
+  "settings": {
+    "logout": "تسجيل خروج",
+    "myAccount": "حسابي",
+    "bankAccount": "الحساب البنكي",
+    "shareApp": "مشاركه التطبيق",
+    "termsConditions": "الشروط والاحكام",
+    "About": "عن التطبيق",
+    "contactUs": "اتصل بنا",
+    "lang": "اللغه",
+    "logOut": "هل تريد تسجيل الخروج ؟"
+  },
+  "profile": {
+    "changePicture": "تغير الصوره الشخصية",
+    "changeMobileNumber": "تغير رقم الجوال",
+    "accountInformation": "معلومات الحساب",
+    "changePassword": "تغيير كلمه المرور",
+    "phoneNumberChange": "تغير رقم التلفون",
+    "newMobileNumber": "رقم الجوال الجديد",
+    "password": "كلمه المرور",
+    "modifyPassword": "تعديل كلمه المرور",
+    "oldPassword": "كلمه المرور القديمه",
+    "pleaseOldPassword": "رجاء ادخل كلمه المرور القديمه",
+    "passwordLetters": "كلمه المرور تتخطي 6 ارقام او احرف",
+    "deleteAccount": "حذف الحساب",
+    "deleteMag": "هل انت متاكد من حذف الحساب ؟"
+  },
+  "deposit": {
+    "totalBalance": "اجمالي الرصيد",
+    "transferringBonuses": "الحد الادني لتحويل المكافات ",
+    "SentFrom": "تم الارسال من",
+    "totalRatingPoints": "اجمالي نقاط التقييم",
+    "currentTotalPoints": "اجمالي نقاط  التقييم الحالية"
+  },
+  "favorite": {
+    "title": "المفضله",
+    "sendPoints": "ارسال نقاط",
+    "deleteFavourites": "حذف من المفضله"
+  },
+  "payments": {
+    "title": "مدفوعاتي",
+    "totalPayments": "اجمالي المدفوعات",
+    "selectPackage": "اختر الباقة وعيش التجربة",
+    "choosePaymentMethod": "اختر طريقه الدفع",
+    "mada": "مدي",
+    "STCPay": "إس تي سي باي",
+    "MasterCardVisa": "ماستر كارد وفيزا",
+    "myPayments": "كل مدفوعاتي",
+    "applePay": "ابل باي"
+  },
+  "contentUs": {
+    "enterUsername": "أدخل اسم المستخدم",
+    "enterMobile": "أدخل رقم الجوال",
+    "enterEmail": "أدخل البريد الالكتروني",
+    "enterMessage": "أدخل نص الرسالة",
+    "sendingMessage": "ارسال رسالة"
+  },
+  "chat": {
+    "message": "رسالة ...",
+    "images": "الصور",
+    "videos": "فيديو",
+    "close": "الغاء",
+    "messages": "رسائل",
+    "deleteMessage": "تاكيد الحذف",
+    "blockUser": "آضافه الي القائمه الحظر",
+    "blacklistMsg": "هل أنت متأكد من إضافة المستخدم إلى القائمة السوداء؟",
+    "transferTIPPoints": "ارسال نقاط TIP"
+  }
+}

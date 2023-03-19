@@ -1,0 +1,166 @@
+{
+  "GENERAL": {
+    "mobile": "Phone Number",
+    "example": "Example (********05)",
+    "RS": "R.S",
+    "confirmation": "confirmation",
+    "About": "About Us",
+    "save": "Save",
+    "update": "update",
+    "balance": "balance",
+    "send": "send",
+    "cancel": "cancel",
+    "TIP": "TIP",
+    "change": "Change",
+    "loading": "loading ...",
+    "Delete": "Delete",
+    "deleteAccount": "delete account",
+    "total": "Total",
+    "valueAddedTax": "Value Added Tax",
+    "buyPackages": "Add balance to the wallet",
+    "notifications": "notification",
+    "noticeDetails": "notification details",
+    "sentFrom": "Sent from",
+    "exit": "Do you want to exit the app ?"
+  },
+  "login": {
+    "title": "Login",
+    "password": "Password",
+    "forgotPassword": "Forgot your password ?",
+    "donHaveAccount": "Don't have an account?",
+    "createAccount": "Create an account"
+  },
+  "forGetPassword": {
+    "title": "Did you forget your password ؟ ",
+    "descrption": "Enter your mobile number to send the password recovery code",
+    "continue": "Continue"
+  },
+  "mobileOtp": {
+    "description": "A 4-digit verification code has been sent to your phone number",
+    "resand": "Resend Verification Code",
+    "resandCode": "Resend the code"
+  },
+  "registration": {
+    "title": "Register",
+    "description": "Please complete your information",
+    "firstName": "First Name",
+    "pleaseFirstName": "Please enter first name",
+    "lastName": "Last Name",
+    "pleaseLastName": "Please enter Last name",
+    "email": "Email (optional)",
+    "pleaseEmail": "Please enter valid e-mail",
+    "userName": "user name",
+    "pleaseUsername": "Please enter your username",
+    "password": "Password",
+    "pleasePassword": "Please enter the password",
+    "confirmPassword": "Confirm password",
+    "pleaseConfirmPassword": "Please enter confirm password",
+    "agreeTermsConditions": "I agree to the terms and conditions",
+    "createAccount": "Create an account",
+    "AlreadyAccount": "Already have an account?"
+  },
+  "resetPassword": {
+    "newPassword": "new password",
+    "confirmPassword": "Confirm the new password"
+  },
+  "bankAccount": {
+    "title": "Bank account",
+    "bankName": "Bank name",
+    "accountNumber": "Account number",
+    "IBAN": "IBAN",
+    "beneficiaryName": "Beneficiary Name",
+    "addedBefore": "No bank account has been added before !!",
+    "addAccount": "Please add your account to receive the reward",
+    "addNewAccount": "Add a bank account"
+  },
+  "home": {
+    "title": "Home",
+    "transaction": "Do you really want to transfer to",
+    "successfullyProcessed": "Your request has been successfully processed",
+    "findBeneficiary": "Find a beneficiary",
+    "sendTo": "send to",
+    "addFavorites": "Add to Favorites",
+    "deleteFavourites": "Delete from favourites",
+    "rewards": "Evaluation",
+    "settings": "Settings",
+    "wallet": "Wallet",
+    "payments": "My payments",
+    "changePackage": "Change package",
+    "writeMessage": "Write the message ...",
+    "messages": "Messages",
+    "minimumTransferTip": "minimum {{minimumTransferTip}} TIP",
+    "packagePrice": "Package price",
+    "sendConfirmation": "Send confirmation"
+  },
+  "wallet": {
+    "purchaseTotal": "My purchase total",
+    "availableBalance": "Available balance",
+    "addBalance": "Add Balance"
+  },
+  "settings": {
+    "logout": "Logout",
+    "myAccount": "Account",
+    "bankAccount": "Bank Account",
+    "shareApp": "Share app",
+    "termsConditions": "Terms and Conditions",
+    "About": "About Us",
+    "contactUs": "contact us",
+    "lang": "language",
+    "logOut": "Do you want to log out?"
+  },
+  "profile": {
+    "changePicture": "Change profile picture",
+    "changeMobileNumber": "Change the mobile number",
+    "accountInformation": "Account Information",
+    "changePassword": "change password",
+    "phoneNumberChange": "Phone number change",
+    "newMobileNumber": "New mobile number",
+    "password": "Password",
+    "modifyPassword": "Modify the password",
+    "oldPassword": "Old Password",
+    "pleaseOldPassword": "Please enter your old password",
+    "passwordLetters": "Password exceed 6 numbers or letters",
+    "deleteAccount": "delete account",
+    "deleteMag": "Are you sure to delete the account ?"
+  },
+  "deposit": {
+    "totalBalance": "Total balance",
+    "transferringBonuses": "minimum amount for transferring bonuses ",
+    "SentFrom": "Sent from",
+    "totalRatingPoints": "Total Rating Points",
+    "currentTotalPoints": "Current total points"
+  },
+  "favorite": {
+    "title": "Favorite",
+    "sendPoints": "Send points",
+    "deleteFavourites": "Delete from favorite"
+  },
+  "payments": {
+    "title": "My payments",
+    "totalPayments": "Total Payments",
+    "selectPackage": "Choose Package and live experience",
+    "choosePaymentMethod": "Choose the payment method",
+    "STCPay": "STC Pay",
+    "MasterCardVisa": "MasterCard and Visa",
+    "myPayments": "All my payments",
+    "applePay": "Apple Pay"
+  },
+  "contentUs": {
+    "enterUsername": "Enter the username",
+    "enterMobile": "Enter the mobile number",
+    "enterEmail": "Enter email",
+    "enterMessage": "Enter the text of the message",
+    "sendingMessage": "Sending a Message"
+  },
+  "chat": {
+    "message": "Message ...",
+    "images": "Images ",
+    "videos": "Videos",
+    "close": "Close",
+    "messages": "Messages",
+    "deleteMessage": "Confirm delete",
+    "blockUser": "Add to ban list",
+    "blacklistMsg": "Are you sure to add the user to the blacklist?",
+    "transferTIPPoints": "Transfer TIP Points"
+  }
+}
