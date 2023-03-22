@@ -1,6 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
+
+import '../../Components/Header.dart';
 import '../Tabs/Tabs.dart';
 
 class Layout extends StatefulWidget {
@@ -13,7 +15,17 @@ class _LayoutState extends State<Layout> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Tabs(),
+      home: Scaffold(
+        appBar: AppBar(
+          backgroundColor: Colors.white,
+          actions: [
+            Header(
+              title: 'محمد كريم',
+            )
+          ],
+        ),
+        body: Tabs(),
+      ),
     );
   }
 }

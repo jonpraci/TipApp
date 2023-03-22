@@ -3,11 +3,6 @@
 import 'package:flutter/material.dart';
 import 'package:newtipsapp/Pages/Home/Home.dart';
 
-import '../Deposit/Deposit.dart';
-import '../Messages/Messages.dart';
-import '../Settings/Settings.dart';
-import '../Wallet/Wallet.dart';
-
 class Tabs extends StatefulWidget {
   const Tabs({super.key});
 
@@ -20,11 +15,23 @@ class _TabsState extends State<Tabs> {
   static const TextStyle optionStyle =
       TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static List<Widget> _widgetOptions = <Widget>[
-    Settings(),
-    Messages(),
+    Text(
+      'Index 0: Home',
+      style: optionStyle,
+    ),
+    Text(
+      'Index 2: Home',
+      style: optionStyle,
+    ),
     Home(),
-    Wallet(),
-    Evaleuation(),
+    Text(
+      'Index 4: Business',
+      style: optionStyle,
+    ),
+    Text(
+      'Index 5: School',
+      style: optionStyle,
+    ),
   ];
 
   void _onItemTapped(int index) {

@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 
+import '../../Components/Header.dart';
 import '../../Components/MinTipFieldWidget.dart';
 import '../../Components/Search.dart';
 import '../../Components/Slider.dart';
@@ -14,23 +15,36 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
-    return ListView(
-      children: [
-        SliderWidget(),
-        SizedBox(
-          height: 1,
-        ),
-        Container(
-          padding: EdgeInsets.only(left: 20, right: 20),
-          child: Column(children: [
-            SearchWidget(),
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        appBar: (AppBar(
+          backgroundColor: Colors.amber[500],
+          actions: [
+            Header(
+              title: 'محمد كريم',
+            )
+          ],
+        )),
+        body: ListView(
+          children: [
+            SliderWidget(),
             SizedBox(
-              height: 10,
+              height: 1,
             ),
-            MinTipFieldWidget()
-          ]),
-        )
-      ],
+            Container(
+              padding: EdgeInsets.only(left: 20, right: 20),
+              child: Column(children: [
+                SearchWidget(),
+                SizedBox(
+                  height: 10,
+                ),
+                MinTipFieldWidget()
+              ]),
+            )
+          ],
+        ),
+      ),
     );
   }
 }
